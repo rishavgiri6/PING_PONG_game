@@ -7,7 +7,7 @@ package pingpong;
 
 /**
  *
- * @author shrey
+ * @author Rishav
  */
 import java.awt.Graphics;
 import java.awt.Image;
@@ -19,7 +19,7 @@ import java.util.regex.Pattern;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 /**
- * @author Burak Sahin
+ 
  * Java Network Programming | Pong Game
 */  
 
