@@ -1,5 +1,5 @@
 # PING_PONG_game
-####Author-Rishav Giri
+Author-Rishav Giri
 A new 2d version of the online ping-pong game using multithreading client-server architecture of Java coupled with TCP Socket Programming.
 
 Also, the 2nd version is Flappy Pong:
