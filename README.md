@@ -5,11 +5,11 @@ A new 2d version of the online ping-pong game using multithreading client-server
 Also, the 2nd version is Flappy Pong:
 
 
-#### The Game
+# The Game
 
 
 
-This is the 2nd game we covered in our project This game is sort of a combination of Flappy Bird, Pong and Brick Breaker. 
+This is the 2nd game we covered in our midsem networking project This game is sort of a combination of Flappy Bird, Pong and Brick Breaker. 
 Building Flappy Pong
 =====
 
