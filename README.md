@@ -1,4 +1,4 @@
-# PING_PONG_game
+# ping_pong_networks
 Author-Rishav Giri
 A new 2d version of the online ping-pong game using multithreading client-server architecture of Java coupled with TCP Socket Programming.
 
