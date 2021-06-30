@@ -5,7 +5,7 @@ A new 2d version of the online ping-pong game using multithreading client-server
 Also, the 2nd version is Flappy Pong:
 
 
-# The Game
+# Game Mechanics & Notes:
 
 
 
